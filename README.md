@@ -1,5 +1,7 @@
 # Fake-News-Detection-using-Machine-Learning
 
+Machine learning approaches to detect online fake news for dataset more than 72 thousands.
+
 ## Dataset Link
 
 https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
