@@ -14,3 +14,10 @@ The dataset contains four columns:
 3. Text (about the news content) and 
 4. Label (0 = fake news and 1 = real news).
 
+## Application of Models
+
+1. Multinomial Naive Bayes classifier, 
+2. Bernoulli Naive Bayes classifier, 
+3. Logistic Regression,
+4. Support Vector Machine (SVM),
+5. K-Nearest Neighbors (KNN).
